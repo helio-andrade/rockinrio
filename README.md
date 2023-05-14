@@ -2,9 +2,9 @@
 
 Flutter para iniciantes.
 
-![image](https://github.com/helio-andrade/rockinrio/assets/8788842/0ceb4837-8746-4605-9257-824300793bdc?w=120)
+<img src="https://user-images.githubusercontent.com/8788842/238163491-0ceb4837-8746-4605-9257-824300793bdc.png" width="320">
 
-![image](https://github.com/helio-andrade/rockinrio/assets/8788842/096d4310-e4bd-4aef-bcf3-9186d52734a6?w=120)
+<img src="https://user-images.githubusercontent.com/8788842/238163485-096d4310-e4bd-4aef-bcf3-9186d52734a6.png" width="320">
 
 ## Getting Started
 

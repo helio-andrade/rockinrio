@@ -96,7 +96,7 @@ class AtracaoPage extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
             for (var tag in atracao.tags) Chip(label: Text('#$tag')),
-            const SizedBox(height: 16),
+            const SizedBox(height: 26,),
             ElevatedButton(
               onPressed:(){
                 Navigator.pop(context);
@@ -125,4 +125,11 @@ const listaAtracoes = [
   Atracao("Guns N' Roses", 8, ["Sucesso", "Espetaculo", "Fas"]),
   Atracao("Green Day", 9, ["Sucesso", "Reconhecimento", "Show"]),
   Atracao("Cold Play", 10, ["NovoAlbum", "Sucesso", "2011"]),
+  Atracao("Beyoncé", 11, ["Divas", "Show", "Incrivel"]),
+  Atracao("Taylor Swift", 12, ["Talentosa", "Sucesso", "Cantora"]),
+  Atracao("Ed Sheeran", 13, ["HitMaker", "Carisma", "Show"]),
+  Atracao("Bruno Mars", 14, ["Energia", "Performances", "Pop"]),
+  Atracao("Muse", 15, ["Alternativo", "Espetaculo", "Rock"]),
 ];
+
+
